@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente sou suporte técnico de T.I<br>Me inspiro todos os dias em inovações e desenvolvimentos Tecnológicos.<br>Sou estudante de Sistemas de Informação na Universidade Federal de Alagoas.<br>Meu foco é em desenvolvimento FullStack com objetivo final em DevOps.<br>Estudando Tecnologias como Python, C, Automação, AI e Cloud.
+Atualmente sou suporte técnico de T.I<br>Me inspiro todos os dias em inovações e desenvolvimentos Tecnológicos.<br>Sou estudante de Sistemas de Informação na Universidade Federal de Alagoas.<br>Meu foco é em desenvolvimento FullStack e Engenharia de Dados.<br>Estudando Tecnologias como Python, C, Automação, AI e Cloud.
 
 
 ## 🌐 Socials:
